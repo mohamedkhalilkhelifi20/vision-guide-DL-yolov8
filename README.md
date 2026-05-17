@@ -77,7 +77,7 @@ Image caméra
 ```
 object-finder/
 │
-├── role1_age/                         # Rôle 1 — Classification d'âge
+├── role1_personne/                         # Rôle 1 — Classification d'âge
 │   ├── 1_EDA.ipynb                    # Exploration du dataset FairFace
 │   ├── 2_Preprocessing.ipynb          # Mapping âge → classe, sauvegarde CSV
 │   ├── 3_v1_Model_Comparison.ipynb    # Comparaison 4 architectures CNN
