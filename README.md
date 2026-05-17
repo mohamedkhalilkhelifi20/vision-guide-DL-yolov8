@@ -9,6 +9,16 @@
 ![F1 Stairs](https://img.shields.io/badge/F1%20Escaliers-96.84%25-success?style=flat)
 ![F1 Age](https://img.shields.io/badge/F1%20Âge-64.04%25-yellow?style=flat)
 
+<div align="center">
+
+[![ Demo Live](https://img.shields.io/badge/🚀%20Demo%20Live-vision--guide--dl--frontend.vercel.app-black?style=for-the-badge&logo=vercel)](https://vision-guide-dl-frontend.vercel.app/)
+&nbsp;&nbsp;
+[![Frontend](https://img.shields.io/badge/Frontend-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mohamedkhalilkhelifi20/vision-guide-DL-frontend)
+&nbsp;&nbsp;
+[![Backend](https://img.shields.io/badge/Backend-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mohamedkhalilkhelifi20/vision-guide-DL-backend)
+
+</div>
+
 > **Projet académique** — 4ème année Data Science & IA, École Polytechnique de Sousse  
 > **Auteur** : Mohamed Khalil Khelifi
 
@@ -18,6 +28,7 @@ Système de détection et classification d'objets en temps réel conçu pour **a
 
 ## 📋 Table des matières
 
+- [Liens du projet](#-liens-du-projet)
 - [Problème](#-problème)
 - [Architecture du pipeline](#️-architecture-du-pipeline)
 - [Structure du dépôt](#-structure-du-dépôt)
@@ -27,6 +38,17 @@ Système de détection et classification d'objets en temps réel conçu pour **a
 - [Comment reproduire](#-comment-reproduire)
 - [Technologies](#️-technologies)
 - [Concepts clés appliqués](#-concepts-clés-appliqués)
+
+---
+
+## 🔗 Liens du projet
+
+| Ressource | Lien |
+|-----------|------|
+| 🌐 **Application live** | [vision-guide-dl-frontend.vercel.app](https://vision-guide-dl-frontend.vercel.app/) |
+| 🎨 **Frontend** (React / Next.js) | [vision-guide-DL-frontend](https://github.com/mohamedkhalilkhelifi20/vision-guide-DL-frontend) |
+| ⚙️ **Backend** (API / Inférence) | [vision-guide-DL-backend](https://github.com/mohamedkhalilkhelifi20/vision-guide-DL-backend) |
+| 🧠 **Modèles DL** (ce repo) | [vision-guide-DL-yolov8](https://github.com/mohamedkhalilkhelifi20/vision-guide-DL-yolov8) |
 
 ---
 
@@ -77,7 +99,7 @@ Image caméra
 ```
 object-finder/
 │
-├── role1_personne/                         # Rôle 1 — Classification d'âge
+├── role1_age/                         # Rôle 1 — Classification d'âge
 │   ├── 1_EDA.ipynb                    # Exploration du dataset FairFace
 │   ├── 2_Preprocessing.ipynb          # Mapping âge → classe, sauvegarde CSV
 │   ├── 3_v1_Model_Comparison.ipynb    # Comparaison 4 architectures CNN
