@@ -1,6 +1,6 @@
 # 🔍 Object-Finder — Vision Guide : Pipeline YOLO + CNN
 
-[![Demo Live](https://img.shields.io/badge/...)](https://vision-guide-dl-frontend.vercel.app/)
+[![Demo Live](https://img.shields.io/badge/🚀%20Demo%20Live-vision--guide--dl--frontend.vercel.app-black?style=for-the-badge&logo=vercel)](https://vision-guide-dl-frontend.vercel.app/)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.10-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-2.6-792EE5?style=flat&logo=lightning&logoColor=white)
